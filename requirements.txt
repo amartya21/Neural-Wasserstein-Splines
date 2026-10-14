@@ -1,0 +1,9 @@
+# Requires Python >= 3.10. Tested with Python 3.12, torch 2.14, numpy 2.5, scipy 1.18, POT 0.9.7, pandas 2.3 and 3.0, matplotlib 3.11
+torch>=2.2
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+pot>=0.9.7
+matplotlib>=3.8
+jupyter>=1.0.0
+ipykernel>=6.0.0

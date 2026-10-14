@@ -1,0 +1,25 @@
+# temp files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.orig
+*.log
+
+.DS_Store
+.idea
+.ipynb_checkpoints
+.coverage
+*.egg-info
+
+__mmtf__
+__pycache__
+
+# ides
+.vscode
+
+# run outputs
+results/
+checkpoints/
+*.pt
